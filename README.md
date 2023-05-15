@@ -12,4 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagakei713)](https://github.com/anuraghazra/github-readme-stats)
+
+# Keita Nagaoka
+- University student (B4) in Tohoku University,  Japan
+
+- Major : Space robotics
+
+- Contact me : Email[nagaoka.keita.p3 at dc.tohoku.ac.jp] or Twitter[@keita00713]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagakei713)](https://github.com/anuraghazra/github-readme-stats)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagakei713&layout=compact&theme=tokyonight)](https://github.com/nagakei713/)
