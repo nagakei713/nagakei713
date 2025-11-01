@@ -1,0 +1,25 @@
+name: Update Top Languages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 毎日0時UTCに実行
+  workflow_dispatch:   # 手動トリガー可能
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+      - run: pip install requests
+      - run: python scripts/update_languages.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Top Languages automatically" || echo "No changes"
+          git push
