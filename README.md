@@ -34,4 +34,4 @@ Always learning: proficient in C++ and ROS 2, actively working with TypeScript, 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
---
+---
