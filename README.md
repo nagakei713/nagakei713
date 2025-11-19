@@ -11,20 +11,6 @@ Always learning: proficient in C++ and ROS 2, actively working with TypeScript, 
 
 ---
 
-### 🛠 Top Languages (Including Organizations)
-<!--LANGUAGES_START-->
-| Language | % |
-|----------|---|
-| Python   | 45% |
-| JavaScript | 30% |
-| C++      | 15% |
-| Shell    | 10% |
-<!--LANGUAGES_END-->
-
->⚠️ This section is automatically updated using GitHub GraphQL API to include Organization repositories. 
-
----
-
 ### Skills 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
