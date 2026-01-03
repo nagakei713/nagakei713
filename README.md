@@ -7,10 +7,10 @@ Co-founder of ARES Project, Japan’s initiative aiming at the world-leading stu
 Passionate about bridging the gap between cutting-edge research and real-world impact — from unmanned exploration systems to robotics for disaster resilience and environment monitoring.  
 Always learning: proficient in C++ and ROS 2, actively working with TypeScript, React as a Internship at OPEN8.
 
-### GitHub Status & Language Stats
-| Contribution Graph | Most Used Languages |
-| :---: | :---: |
-| ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nagakei713&theme=react-dark&hide_border=true) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nagakei713&theme=react) |
+### GitHub Status
+| Contribution Graph |
+| :---: |
+| ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nagakei713&theme=react-dark&hide_border=true) | 
 
 ---
 
