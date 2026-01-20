@@ -21,5 +21,5 @@ Always learning: proficient in C++ and ROS 2, actively working with TypeScript, 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white)
 ---
