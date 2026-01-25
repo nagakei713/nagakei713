@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nagakei
+# Keita Nagaoka
 
 ### About Me
 Aerospace Engineering student at Tohoku University, driven to build **robotic systems for extreme and uncertain environments**.
@@ -39,4 +39,5 @@ Currently interested in **bridging advanced research and real-world deployment**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+[![Ruby](https://img.shields.io/badge/Ruby-red.svg)](https://www.ruby-lang.org/)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white)
