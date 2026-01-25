@@ -5,7 +5,7 @@ Aerospace Engineering student at Tohoku University, driven to build **robotic sy
 
 Former Leader of the university’s rocket-making club  
 👉 [FROM THE EARTH](https://fte-tohoku.tech/)  
-Led multiple **sounding rocket and CanSat projects**, overseeing system design, software integration, and team management while promoting STEM outreach to local communities.
+Led multiple **student rocket and CanSat projects**, overseeing system design, software integration, and team management while promoting STEM outreach to local communities.
 
 Co-founder of  
 👉 [ARES Project](https://www.arespjt.jp/ja)  
